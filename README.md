@@ -366,11 +366,10 @@ python src/predict.py --skills "spark, python, sql, aws, airflow" --experience 5
 
 ## 🎥 Walkthrough Videos
 
-Comprehensive walkthrough videos covering the end-to-end data pipeline, model training, and Power BI dashboard:
+Complete walkthroughs of the Naukri Job Market Analysis & Salary Prediction project, including the end-to-end data pipeline, machine learning models, and interactive Power BI dashboard.
 
-- 📺 **Full Project Overview & Workflow Walkthrough**: [Watch Video Demo](#) *(Add link here)*
-- 📊 **Power BI Dashboard Deep Dive & DAX Walkthrough**: [Watch Dashboard Demo](#) *(Add link here)*
-- 🤖 **Machine Learning Pipeline & Evaluation**: [Watch ML Walkthrough](#) *(Add link here)*
+- 📺 **Full Project Overview & Workflow Walkthrough — Part 1**: [Watch on Loom](https://www.loom.com/share/9cfbda6a94d142bc88db05ce2d9a366f)
+- 📊 **Full Project Overview & Power BI Dashboard — Part 2**: [Watch on Loom](https://www.loom.com/share/f265a4cc07f24e899e335698497bfb04)
 
 ---
 
